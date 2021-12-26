@@ -6,6 +6,6 @@ Convert Skysphere(skydome) to skybox
 2: front <br>
 6: left <br>
 5: right <br>
-3: back
+1: back
 
 ![Screenshot_4](https://raw.githubusercontent.com/steelswing/SkySphereToSkyBoxConverter/master/preview.png)
